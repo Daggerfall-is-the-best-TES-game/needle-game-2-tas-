@@ -1,0 +1,1 @@
+RightArrow(P)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>J(PR)>>>>K(PR)>RightArrow(R),J(PR)>LeftArrow(P)>LeftArrow(R)>>>>>>>>>>>>>J(PR)>>>>>>>>>RightArrow(P)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
